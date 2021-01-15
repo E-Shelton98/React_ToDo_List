@@ -21,8 +21,6 @@ function App() {
       }
     ]
   }
-
-  console.log(state.todos)
   
   return (
     <div className="App">
